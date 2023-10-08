@@ -17,14 +17,14 @@ Submit all the assignments
 Email is the best way to contact Faculty.
 
 ## Sample Code
-
-`SELECT * FROM world`
+### SQL
+`SELECT * FROM table `
 
 
 ```
 namespace HelloWorld
 {
-    class Hello { 
+    class MyClass { 
         static void Main(string[] args)
         
         {
